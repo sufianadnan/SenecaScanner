@@ -43,13 +43,13 @@ This project, initially presented as a benign malware scanner for educational pu
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/sufianadnan/your_repository.git
+git clone https://github.com/sufianadnan/SenecaScanner.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd your_repository
+cd SenecaScanner
 ```
 
 3. **Install the required Python packages:**
